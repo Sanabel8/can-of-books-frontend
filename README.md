@@ -9,16 +9,17 @@ Mahmoud Salameh
 
 ## Overview
 <!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
-added login and logout button in our websites
-
+In this app we worked to added login and logout button to give us Authorization to acces the webpage and go out it and to added some data tor user like email and pic finally we used the crud methed to make some changes on forms and the data which we added on our page
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
-
+we used alot of steps in the backend and frontend
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
 * autho0
 * node 
+* express
+* axios
 
 
 
@@ -28,20 +29,25 @@ added login and logout button in our websites
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
 ***lab11***
 Name of feature: 1. Set up your repositories.
-
-Estimate of time needed to complete: 2hr_
+Estimate of time needed to complete: _2hr ____
 
 Start time: _2:00____
 
+Finish time: _4:30
 
+Actual time needed to complete: _2hr and half____
 
 
 Name of feature: 2. Authentication: As a user, I'd like to sign in with OAuth, so that I can authenticate to the site without creating yet-another username/password combo to potentially get hacked or lost.
 
 
-Estimate of time needed to complete: 2hr_
+Estimate of time needed to complete: __3hr___
 
-Start time: _2:00____
+Start time: _5:00____
+
+Finish time: _9:00____
+
+Actual time needed to complete: 4hr_____
 
 ***lab12***
 Name of feature: __2. Book Component: As a user, I'd like to see my list of books, so that I can track what's impacted me, and what's recommended to me.__
